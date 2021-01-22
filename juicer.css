@@ -210,7 +210,7 @@
 
 /*Size episode preview images in a more compact way*/
 .listItem:hover {
-	transition: 0.2s; background: rgba(0, 0, 0, 0.4);
+	transition: 0.2s; background: rgba(0, 0, 0, 0);
 }
 .listItemImage.listItemImage-large.itemAction.lazy {
   transition: filter 0.2s
