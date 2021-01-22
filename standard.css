@@ -1,4 +1,4 @@
-/* Hide episode description */
+/* Hide episode / movie description */
 
 
 div.detailSectionContent  { display: none; }
