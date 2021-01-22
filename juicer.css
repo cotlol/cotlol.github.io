@@ -717,8 +717,8 @@ a[data-role="button"] {
 	transition: all 0.2s !important;
 }
 
-.paper-icon-button-light:hover {
-  background-color: rgba(0, 0, 0, 0) !important;
+/* .paper-icon-button-light:hover {
+  background-color: rgba(0, 0, 0, 0) !important; */
 }
 
 .raised:hover,
