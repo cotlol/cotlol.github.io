@@ -5,7 +5,7 @@ div.detailSectionContent  { display: none; }
 
 #childrenContent > div > div > div.listItem-content >div.itemAction > div.secondary.listItem-overview.listItemBodyText { display: none; }
 
-/* Hide thumbnails */
+/* Blackout thumbnails */
 
 
 #itemDetailPage > div.detailPageWrapperContainer > div.detailPageSecondaryContainer > div.detailPageContent > div.nextUpSection.verticalSection.detailVerticalSection > div > div > div > div.cardScalable > button {filter: brightness(0%);} 
@@ -20,7 +20,7 @@ div.detailSectionContent  { display: none; }
 
 #itemDetailPage > div.detailPageWrapperContainer > div.detailPageSecondaryContainer > div.detailPageContent > div.verticalSection.detailVerticalSection.moreFromSeasonSection.emby-scroller-container > div.padded-top-focusscale.padded-bottom-focusscale.emby-scroller > div > div > div > div.cardScalable > canvas {filter: brightness(0%);}
 
-/* Hide episode names*/
+/* Hide episode names but still show season/episode number */
 
 
 #itemDetailPage > div.detailPageWrapperContainer > div.detailPageSecondaryContainer > div.detailPageContent > div.nextUpSection.verticalSection.detailVerticalSection > div > div > div > div.cardText > button {width: 21%;}
