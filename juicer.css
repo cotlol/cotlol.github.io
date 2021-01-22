@@ -210,7 +210,7 @@
 
 /*Size episode preview images in a more compact way*/
 .listItem:hover {
-	transition: 0.2s; background: rgb(0, 0, 0,);
+	transition: 0.2s; background: rgba(0, 0, 0, 0.4);
 }
 .listItemImage.listItemImage-large.itemAction.lazy {
   transition: filter 0.2s
@@ -718,7 +718,7 @@ a[data-role="button"] {
 }
 
 .paper-icon-button-light:hover {
-  background-color: rgba(0, 0, 0, 0.4) !important;
+  background-color: rgba(0, 0, 0, 0) !important;
 }
 
 .raised:hover,
