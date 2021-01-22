@@ -20,6 +20,10 @@ div.detailSectionContent  { display: none; }
 
 #itemDetailPage > div.detailPageWrapperContainer > div.detailPageSecondaryContainer > div.detailPageContent > div.verticalSection.detailVerticalSection.moreFromSeasonSection.emby-scroller-container > div.padded-top-focusscale.padded-bottom-focusscale.emby-scroller > div > div > div > div.cardScalable > canvas {filter: brightness(0%);}
 
+#itemDetailPage.page.libraryPage.itemDetailPage.noSecondaryNavPage.selfBackdropPage.mainAnimatedPage div.detailPageWrapperContainer div.detailPageSecondaryContainer div.detailImageContainer.padded-left div.card.backdropCard.card-hoverable.card-withuserdata div.cardBox div.cardScalable button.cardImageContainer.coveredImage.cardContent.itemAction.lazy.blurhashed.lazy-image-fadein-fast {filter: brightness(0%);}
+
+#itemDetailPage.page.libraryPage.itemDetailPage.noSecondaryNavPage.selfBackdropPage.mainAnimatedPage div.detailPageWrapperContainer div.detailPageSecondaryContainer div.detailImageContainer.padded-left div.card.backdropCard.card-hoverable.card-withuserdata div.cardBox div.cardScalable canvas.blurhash-canvas.lazy-blurhash-fadein-fast {filter: brightness(0%);}
+
 /* Hide episode names but still show season/episode number */
 
 
