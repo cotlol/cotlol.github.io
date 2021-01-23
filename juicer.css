@@ -681,7 +681,7 @@ div[data-role=controlgroup] a[data-role=button]+a[data-role=button] {
 }
 
 /*Theme buttons and cards*/
-.navMenuOption-selected,
+/* .navMenuOption-selected,
 .selectionCommandsPanel {
   background: #101010 !important;
 }
@@ -699,7 +699,7 @@ div[data-role=controlgroup] a[data-role=button]+a[data-role=button] {
 .buttonActive,
 .button-link{
   color: rgba(120, 120, 120, 0.6) !important;
-}
+} */
 
 #itemDetailPage .button-link {color: inherit !important;}
 
