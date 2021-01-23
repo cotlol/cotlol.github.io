@@ -647,9 +647,9 @@ div[data-role=controlgroup] a[data-role=button]+a[data-role=button] {
 }
 
 /*Rating star, normally yellow*/
-.starIcon {
+/*.starIcon {
   color: white;
-}
+} */
 
 
 /*Theme media player*/
