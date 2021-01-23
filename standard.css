@@ -5,6 +5,10 @@ div.detailSectionContent  { display: none; }
 
 #childrenContent > div > div > div.listItem-content >div.itemAction > div.secondary.listItem-overview.listItemBodyText { display: none; }
 
+/* Remove Cast & Crew */
+
+#castCollapsible { display: none; }
+
 /* Blackout thumbnails for TV Shows */
 
 
