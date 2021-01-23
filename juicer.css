@@ -864,20 +864,19 @@ div.detailSectionContent  { display: none; }
 
 #childrenContent div.childrenItemsContainer.itemsContainer.padded-right.vertical-list div.listItem.listItem-largeImage.listItem-withContentWrapper div.listItem-content div.listItemImage.listItemImage-large.itemAction.lazy.non-blurhashable.lazy-image-fadein-fast div.indicators.listItemIndicators { z-index:10; }
 
-
 /* Hide episode names but still show season/episode number */
 
 
-#itemDetailPage > div.detailPageWrapperContainer > div.detailPageSecondaryContainer > div.detailPageContent > div.nextUpSection.verticalSection.detailVerticalSection > div > div > div > div.cardText > button {width: 21%;}
+#itemDetailPage > div.detailPageWrapperContainer > div.detailPageSecondaryContainer > div.detailPageContent > div.nextUpSection.verticalSection.detailVerticalSection > div > div > div > div.cardText > button {width: 18%;}
 
 #itemDetailPage > div.detailPageWrapperContainer > div.detailPageSecondaryContainer > div.detailPageContent > div.verticalSection.detailVerticalSection.moreFromSeasonSection.emby-scroller-container > div.padded-top-focusscale.padded-bottom-focusscale.emby-scroller > div > div > div > div.cardText > button {width: 5%;}
 
 #childrenContent div.childrenItemsContainer.itemsContainer.padded-right.vertical-list div.listItem.listItem-largeImage.listItem-withContentWrapper div.listItem-content div.listItemBody.itemAction div.secondary.listItemMediaInfo.listItemBodyText { width: max-content; white-space: normal; }
 
-#childrenContent div.childrenItemsContainer.itemsContainer.padded-right.vertical-list div.listItem.listItem-largeImage.listItem-withContentWrapper div.listItem-content div.listItemBody.itemAction div.listItemBodyText { width: 5%;white-space: nowrap;}
+#childrenContent div.childrenItemsContainer.itemsContainer.padded-right.vertical-list div.listItem.listItem-largeImage.listItem-withContentWrapper div.listItem-content div.listItemBody.itemAction div.listItemBodyText { width: 4.5%;white-space: nowrap;}
 
-div.card-withuserdata.card-hoverable.overflowBackdropCard.card > .cardBox-bottompadded.cardBox > .cardText-secondary.cardTextCentered.cardText > .textActionButton.itemAction {width: 18%;}
+div.card-withuserdata.card-hoverable.overflowBackdropCard.card > .cardBox-bottompadded.cardBox > .cardText-secondary.cardTextCentered.cardText > .textActionButton.itemAction {width: 16%;}
 
-div.card-withuserdata.card-hoverable.overflowPortraitCard.card > .cardBox-bottompadded.cardBox > .cardText-secondary.cardTextCentered.cardText > .textActionButton.itemAction {width: 34%;}
+div.card-withuserdata.card-hoverable.overflowPortraitCard.card > .cardBox-bottompadded.cardBox > .cardText-secondary.cardTextCentered.cardText > .textActionButton.itemAction {width: 30%;}
 
-div.card-withuserdata.card-hoverable.backdropCard.card > .cardBox-bottompadded.cardBox > .cardText-secondary.cardTextCentered.cardText > .textActionButton.itemAction {width: 18%;}
+div.card-withuserdata.card-hoverable.backdropCard.card > .cardBox-bottompadded.cardBox > .cardText-secondary.cardTextCentered.cardText > .textActionButton.itemAction {width: 16%;}
