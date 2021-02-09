@@ -359,7 +359,7 @@
 /*Make watched icon, footer on chapter thumnails (and other things), and count indicator dark and transparent*/
 .innerCardFooter,
 .countIndicator,
-/* Ignoring next line */
+/* ignore this */
 /* .playedIndicator */ 
 {
   background: rgba(0,0,0,0.4); 
