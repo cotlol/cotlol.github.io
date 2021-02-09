@@ -712,7 +712,8 @@ div[data-role=controlgroup] a[data-role=button]+a[data-role=button] {
   background: #101010 !important;
 }
 
-.paper-icon-button-light:hover,
+/* ignore this */
+/*.paper-icon-button-light:hover,
 .raised.homeLibraryButton:hover,
 .button-flat:hover,
 .playstatebutton-icon-played,
@@ -725,7 +726,7 @@ div[data-role=controlgroup] a[data-role=button]+a[data-role=button] {
 .buttonActive,
 .button-link{
   color: rgba(120, 120, 120, 0.6) !important;
-}
+}*/
 
 #itemDetailPage .button-link {color: inherit !important;}
 
