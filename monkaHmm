@@ -360,7 +360,7 @@
 .innerCardFooter,
 .countIndicator, 
 .playedIndicator {
-  background: rgba(0,0,0,0.4); 
+  /* background: rgba(0,0,0,0.4); */ 
   box-shadow: none;
 }
 .countIndicator {
