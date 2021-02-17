@@ -366,7 +366,8 @@
 /*Make watched icon, footer on chapter thumnails (and other things), and count indicator dark and transparent*/
 .innerCardFooter,
 .countIndicator, 
-.playedIndicator {
+/* ignore this */
+/* .playedIndicator */  {
   background: rgba(0,0,0,0.4); 
   box-shadow: none;
 }
@@ -727,7 +728,8 @@ div[data-role=controlgroup] a[data-role=button]+a[data-role=button] {
   background: #101010 !important;
 }
 
-.paper-icon-button-light:hover,
+/* ignore this */
+/*.paper-icon-button-light:hover,
 .raised.homeLibraryButton:hover,
 .button-flat:hover,
 .playstatebutton-icon-played,
@@ -740,7 +742,7 @@ div[data-role=controlgroup] a[data-role=button]+a[data-role=button] {
 .buttonActive,
 .button-link{
   color: rgba(120, 120, 120, 0.6) !important;
-}
+}*/
 
 #itemDetailPage .button-link {color: inherit !important;}
 
@@ -757,9 +759,10 @@ a[data-role="button"] {
 	transition: all 0.2s !important;
 }
 
-.paper-icon-button-light:hover {
+/* ignore this */
+/* .paper-icon-button-light:hover {
   background-color: rgba(0, 0, 0, 0.4) !important;
-}
+} */
 
 .raised:hover,
 .fab:hover,
