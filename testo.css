@@ -919,3 +919,5 @@ div.card-withuserdata.card-hoverable.overflowBackdropCard.card > .cardBox-bottom
 div.card-withuserdata.card-hoverable.overflowPortraitCard.card > .cardBox-bottompadded.cardBox > .cardText-secondary.cardTextCentered.cardText > .textActionButton.itemAction {width: 30%;}
 
 div.card-withuserdata.card-hoverable.backdropCard.card > .cardBox-bottompadded.cardBox > .cardText-secondary.cardTextCentered.cardText > .textActionButton.itemAction {width: 16%;}
+
+#itemDetailPage.page.libraryPage.itemDetailPage.noSecondaryNavPage.selfBackdropPage.mainAnimatedPage div.detailPageWrapperContainer div.detailPagePrimaryContainer.padded-left.padded-right.detailRibbon div.infoWrapper.infoText div.nameContainer h3.itemName.infoText.subtitle {width: 13%;}
