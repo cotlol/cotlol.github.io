@@ -225,8 +225,9 @@
 
 
 /*Size episode preview images in a more compact way*/
+/*Ignore this*/
 .listItem:hover {
-	transition: 0.2s; background: rgba(0, 0, 0, 0.4);
+	transition: 0.2s; /*background: rgba(0, 0, 0, 0.4);*/
 }
 .listItemImage.listItemImage-large.itemAction.lazy {
   transition: filter 0.2s
@@ -382,8 +383,8 @@
 /*Make watched icon, footer on chapter thumnails (and other things), and count indicator dark and transparent*/
 .innerCardFooter,
 .countIndicator, 
-/* ignore this */
-/* .playedIndicator */ {
+/*ignore this*/
+/*.playedIndicator*/ {
   background: rgba(0,0,0,0.4); 
   box-shadow: none;
 }
@@ -690,11 +691,11 @@ div[data-role=controlgroup] a[data-role=button]+a[data-role=button] {
 	margin: 0 !important;
 }
 
-/* ignore this */
+/*ignore this*/
 /*Rating star, normally yellow*/
 /*.starIcon {
     color: rgba(255,255,255,.8);
-} */
+}*/
 
 
 /*Theme media player*/
@@ -846,7 +847,7 @@ div[data-role=controlgroup] a[data-role=button]+a[data-role=button] {
   background: #101010 !important;
 }
 
-/* ignore this */
+/*ignore this*/
 /*.paper-icon-button-light:hover,
 .raised.homeLibraryButton:hover,
 .button-flat:hover,
@@ -877,10 +878,10 @@ a[data-role="button"] {
 	transition: all 0.2s !important;
 }
 
-/* ignore this */
-/* .paper-icon-button-light:hover {
+/*ignore this*/
+/*.paper-icon-button-light:hover {
   background-color: rgba(0, 0, 0, 0.4) !important;
-} */
+}*/
 
 .raised:hover,
 .fab:hover,
