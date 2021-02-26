@@ -690,10 +690,11 @@ div[data-role=controlgroup] a[data-role=button]+a[data-role=button] {
 	margin: 0 !important;
 }
 
+/* ignore this */
 /*Rating star, normally yellow*/
-.starIcon {
+/*.starIcon {
     color: rgba(255,255,255,.8);
-}
+} */
 
 
 /*Theme media player*/
