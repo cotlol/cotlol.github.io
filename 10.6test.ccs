@@ -928,9 +928,9 @@ a[data-role="button"] {
 .listItem-indexnumberleft {
   margin: 1em;
 }
-.listItem {
+*/.listItem {
   padding-left: 1em;
-}
+}*/
 
 /*Tweak entry fields, checkamarks*/
 .emby-input,
