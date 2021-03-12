@@ -928,7 +928,8 @@ a[data-role="button"] {
 .listItem-indexnumberleft {
   margin: 1em;
 }
-*/.listItem {
+/*ignore this*/
+/*.listItem {
   padding-left: 1em;
 }*/
 
