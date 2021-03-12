@@ -1,3 +1,4 @@
+/*Ignore this*/
 /*@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap'); body, h1, h2, h3, h4 {
   font-family: 'Quicksand', sans-serif;
 }*/
@@ -225,9 +226,10 @@
 
 
 /*Size episode preview images in a more compact way*/
-/*Ignore this*/
 .listItem:hover {
-	transition: 0.2s; /*background: rgba(0, 0, 0, 0.4);*/
+	transition: 0.2s; 
+	/*Ignore this*/ 
+	/*background: rgba(0, 0, 0, 0.4);*/
 }
 .listItemImage.listItemImage-large.itemAction.lazy {
   transition: filter 0.2s
