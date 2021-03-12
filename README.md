@@ -16,4 +16,4 @@ Test
 
 @import url('https://cotlol.github.io/cotlol.github.io/10.6.css');
 
-@import url('https://cotlol.github.io/cotlol.github.io/10.6test.css');
+@import url('https://cotlol.github.io/cotlol.github.io/10.6test.ccs');
