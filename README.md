@@ -13,3 +13,5 @@ Test
 @import url('https://cotlol.github.io/cotlol.github.io/shimit.css');
 
 @import url('https://cotlol.github.io/cotlol.github.io/pi.css');
+
+@import url('https://cotlol.github.io/cotlol.github.io/10.6.css');
